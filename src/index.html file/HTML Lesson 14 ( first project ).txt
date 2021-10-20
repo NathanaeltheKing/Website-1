@@ -1,0 +1,160 @@
+<title>Spartan HQ</title>
+
+<h1>history<h/1>
+<h2>origins<h/2>
+<h3>rise<h/3>
+<h4>methods<h/4>
+<h5>enemies<h/5>
+<h6>goal<h/6>
+    
+    <html>
+
+   <head>
+
+    <title>Spartan HQ</title>
+
+    </head>
+
+   <body>
+
+  <ol>
+<li>We our Proud!</li>
+<li>We are Warriors!</li>
+
+
+</ol>
+  <ul>
+
+ <li>No man left behind</li>
+ <li>Be loyal to your faction</li>
+ 
+</li>
+</ul>
+    </body>
+
+</html>
+
+     1. Join us Today!*
+     2. We take no responsibility for injuries or deaths
+      
+      *
+      <html>
+
+<head>
+
+<title>Accomplishments</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Spartan HQ Menus</h1>
+
+</header>
+
+<ol>
+
+<li>Missing persons</li>
+
+<li>Ranks</li>
+
+</ol>
+
+<p>Important information about us</p>
+
+<footer>
+
+<ul>
+
+<li>Phone Number</li>
+
+<li>Address</li>
+
+</ul>
+
+</footer>
+
+</body>
+
+</html>
+
+<html>     
+   <head>
+        <title>Dividers</title>
+   </head>
+ <body>
+       <header>
+           <h1>Divs and Ids</h1>
+       </header>
+       <div id="first section">
+        <footer>
+           <p>Thanks for joining me!</p>
+           <p>Warriors needed!</p>
+   <a href="http://Weild-The-Sword.com">Come join my army!<a/>
+   </footer>
+      </body>
+</html>
+
+<h1>My Travels</h1>
+
+<nav>
+          
+           <h2>Menu</h2>
+         
+           <a href = "#destinations">Destinations</a>
+
+           <a href = "#gallery">Gallery</a>
+
+<nav>
+
+<div id = "destinations">
+
+           <h3>Israel</h3>
+          
+           <h3>Pakistan</h3>
+
+           <h3>Iceland</h3>
+
+           <h3?>Rome</h3>
+
+</div>
+
+<div id = "gallery"></div>
+
+<html>
+
+<title>images</title>
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3g1cqsL44wt1W48JNO-3zFT5KAiKGlQirag&usqp=CAU"  alt = "  Reading Mushroom" width =  350 height =  200  />
+
+</html>
+
+<html>
+<body>
+
+    <ul>
+
+           <li><a href = "./Armory/lSwords.html">Swords</a></li>
+           <li><a href = "./Armory/lGuns.html">Guns</a></li>
+
+           <a href = "./Armory/Shields.html" target = "_blank" >Shields</a>
+  </ul>
+
+</body>
+</html>
+
+<video width="320" height="240" controls>
+
+ <source src="movie.mp4" type="video/mp4"/
+
+ Your browser does not support video.
+
+</video>
+
+
+<iframe width=”420″ height=”315″
+src=”https://www.youtube.com/embed/tgbNymZ7vqY&#8221;>
+</iframe>
+      
